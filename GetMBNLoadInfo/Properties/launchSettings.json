@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GetMBNLoadInfo": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\gus33\\Documents\\GitHub\\WOA-Project\\Silicon\\windows_silicon_qcom_hana\\FW"
+    }
+  }
+}
